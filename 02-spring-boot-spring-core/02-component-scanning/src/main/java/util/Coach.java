@@ -1,4 +1,4 @@
-package com.luv2code.springcoredemo;
+package util;
 
 public interface Coach {
     String getDailyWorkout();
